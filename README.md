@@ -1,16 +1,13 @@
-# Kayak-Develompent-Capstone
+# Kayak-Development-Capstone
 
 Requirements to run and develop project:
 
 - Install NPM
 - Install node.js stable version
 
-Open command prompt in vscode and run git clone https://github.com/brinnerdt/Kayak-Develompent-Capstone.git
+Open command prompt in vscode and run git clone https://github.com/finnjacobs99/Waste-Watcher.git
 
 Run git checkout dev - or git checkout <branch> to switch to desired branch
-
-NOTE: Try not to push unstable changes directly to main branch. Immplement new features on different branch, test, then merge with main once changes are
-good to go.
 
 Install Expo Go on your smartphone
 
