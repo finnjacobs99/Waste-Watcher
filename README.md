@@ -1,30 +1,60 @@
-# Kayak-Development-Capstone
+# Waste Watcher
 
-Requirements to run and develop project:
+![project-1](https://github.com/finnjacobs99/Waste-Watcher/assets/32391644/14efc287-4806-4055-b693-131f09375316)
 
-- Install NPM
-- Install node.js stable version
 
-Open command prompt in vscode and run git clone https://github.com/finnjacobs99/Waste-Watcher.git
+## Description
+Waste Watcher is a cross-platform mobile application designed and developed as a capstone project for the University of Maine Mitchell Center for Sustainability Solutions. 
+Previously, the Mitchell Center used a physical pen and paper solution to collect and track food waste data, but this method yielded inconsistent data from participants.
+In an effort to make household food waste data collection less cumbersome for participants, the Mitchell Center submitted a software development proposal to the University's capstone program which my team won the bid on.
 
-Run git checkout dev - or git checkout <branch> to switch to desired branch
+Waste Watcher enables users to track their household food waste, as well as set food waste goals and visualize their waste history. It also has gamification features such as leaderboards ranking users based on their food waste reduction, and earnable badges for reaching certain milestones.
 
-Install Expo Go on your smartphone
+[Demo Video](https://www.youtube.com/watch?v=nh34OQHx2WI)
 
-Run npm start while in food-waste-tracker directory
+### Built With
+- React Native
+- Javascript
+- AWS
+- SQL
+- Expo
 
-Scan the qr code displayed after running npm start
+### Contributing Members
+- Finn Jacobs
+- Declan Brinn
+- Gavin Palazzo
+- Levi Sturtevant
+- Chase Pisone
 
-Current dependencies:
+## Getting Started
+To get a local copy of this project up and running follow the steps listed below
 
-- "@expo/vector-icons": "^13.0.0",
-- "@react-navigation/native": "^6.1.2",
-- "@react-navigation/native-stack": "^6.9.8",
-- "expo": "^47.0.13",
-- "expo-status-bar": "~1.4.2",
-- "react": "18.1.0",
-- "react-native": "0.70.5",
-- "react-native-bouncy-checkbox": "^3.0.6",
-- "react-native-pager-view": "6.0.1",
-- "react-native-splashscreen": "^1.0.0",
-- "react-navigation": "^4.4.4"
+### Prerequisites
+- npm
+```
+npm install npm@latest -g
+```
+- Latest stable version of Node.js
+- Expo Go installed on a mobile device
+
+### Installation
+1. Clone the repo
+```
+git clone https://github.com/finnjacobs99/Waste-Watcher.git
+```
+2. Install project dependencies
+```
+npm install
+```
+
+### Usage
+Once you've completed all the steps for installation, enter the following command into your terminal to run a local development server
+```
+npm start
+```
+Next scan the qr code displayed in your terminal and open with Expo Go on a mobile device
+
+## Contact
+Finn Jacobs - finn.jacobs99@gmail.com
+
+Project Link: https://github.com/finnjacobs99/Waste-Watcher
