@@ -5,9 +5,6 @@
 
 ## Description
 Waste Watcher is a cross-platform mobile application designed and developed as a capstone project for the University of Maine Mitchell Center for Sustainability Solutions. 
-Previously, the Mitchell Center used a physical pen and paper solution to collect and track food waste data, but this method yielded inconsistent data from participants.
-In an effort to make household food waste data collection less cumbersome for participants, the Mitchell Center submitted a software development proposal to the University's capstone program which my team won the bid on.
-
 Waste Watcher enables users to track their household food waste, as well as set food waste goals and visualize their waste history. It also has gamification features such as leaderboards ranking users based on their food waste reduction, and earnable badges for reaching certain milestones.
 
 [Demo Video](https://www.youtube.com/watch?v=nh34OQHx2WI)
